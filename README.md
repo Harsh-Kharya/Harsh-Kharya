@@ -1,1 +1,1 @@
-Hey! I am Harsh Kharya. I am a high school student, studying in Grade 11th. I am interested in Computers and Latest Technologies. I am currently learning the C programming language. I upload the tiny codes that I develop while learning!
+
